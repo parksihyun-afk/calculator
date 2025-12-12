@@ -1,7 +1,10 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "stack.h"
 #include <string.h>
+
+#define  MODIFIDED_CHECK 1
 
 Stack * create_stack(int initial_size)
 {
