@@ -1,6 +1,9 @@
+
 #ifndef STACK_H
 #define STACK_H
 #include <stdbool.h> 
+
+#define  MODIFIED_CHECK 2
 
 typedef int Item;
 typedef struct stack {
